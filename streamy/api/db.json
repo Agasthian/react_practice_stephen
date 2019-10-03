@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "agasthian",
+      "description": "This is a test stream of user1",
+      "id": 1
+    },
+    {
+      "title": "Jane",
+      "description": "This is a test stream of user2",
+      "id": 2
+    },
+    {
+      "title": "Top 10 Css Tricks",
+      "description": "This stream gives you best css tricks and tips",
+      "userId": "118435946946587032097",
+      "id": 3
+    }
+  ]
+}
